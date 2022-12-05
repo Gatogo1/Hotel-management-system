@@ -1,0 +1,5 @@
+[19-Oct-2022 05:22:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thekambh/public_html/hotel/connect.php on line 10
+[19-Oct-2022 05:22:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thekambh/public_html/hotel/connect.php on line 10
+[19-Oct-2022 05:22:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thekambh/public_html/hotel/connect.php on line 10
+[19-Oct-2022 05:25:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thekambh/public_html/hotel/connect.php on line 10
+[19-Oct-2022 05:25:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thekambh/public_html/hotel/connect.php on line 10
