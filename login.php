@@ -10,15 +10,10 @@
  $unm = $_POST['email'];
  //echo $_POST['passwd'];
  //$p="admin";
- $passw = hash('sha256', $_POST['password']);
+ $pass =$_POST['password'];
  //$passw = hash('sha256',$p);
  //echo $passw;exit;
- function createSalt()
- {
-     return '2123293dsj2hu2nikhiljdsd';
- }
- $salt = createSalt();
- $pass = hash('sha256', $salt . $passw);
+
  //echo $pass;
   $sql = "SELECT * FROM admin WHERE email='" .$unm . "' and password = '". $pass."'";
      $result = mysqli_query($conn,$sql);
